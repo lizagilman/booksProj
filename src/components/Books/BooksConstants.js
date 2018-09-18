@@ -1,0 +1,4 @@
+export const LOAD_BOOKS = 'LOAD_BOOKS';
+export const ADD_NEW_BOOK = 'ADD_NEW_BOOK';
+export const OPEN_ADD_BOOK_MODAL = 'OPEN_ADD_BOOK_MODAL';
+export const CLOSE_ADD_BOOK_MODAL = 'CLOSE_ADD_BOOK_MODAL';

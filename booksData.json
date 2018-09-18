@@ -1,0 +1,469 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 4439,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "s5T_swEACAAJ",
+   "etag": "f3GOVV1iSTc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s5T_swEACAAJ",
+   "volumeInfo": {
+    "title": "The Bullet Journal Method",
+    "authors": [
+     "Ryder Carroll"
+    ],
+    "publisher": "Fourth Estate",
+    "publishedDate": "2018-10-18",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0008261377"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780008261375"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=s5T_swEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=s5T_swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=s5T_swEACAAJ&dq=%27%27&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=s5T_swEACAAJ&dq=%27%27&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Bullet_Journal_Method.html?hl=&id=s5T_swEACAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=s5T_swEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "But this is much more than a time management book. It&#39;s also a manifesto for what Ryder calls &quot;intentional living&quot;: making sure that your beliefs and actions align."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DEXGHFwdl44C",
+   "etag": "xPLzR8kgbOQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DEXGHFwdl44C",
+   "volumeInfo": {
+    "title": "The Freedom to Read",
+    "authors": [
+     "American Library Association"
+    ],
+    "publishedDate": "1953",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UIUC:30112060168629"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 6,
+    "printType": "BOOK",
+    "categories": [
+     "Libraries"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DEXGHFwdl44C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DEXGHFwdl44C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=DEXGHFwdl44C&dq=%27%27&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=DEXGHFwdl44C&dq=%27%27&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Freedom_to_Read.html?hl=&id=DEXGHFwdl44C"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DEXGHFwdl44C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "R24NAAAAYAAJ",
+   "etag": "OBRy8arZNyU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/R24NAAAAYAAJ",
+   "volumeInfo": {
+    "title": "The Book of Mormon",
+    "publishedDate": "1840",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:AH4KQX"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 571,
+    "printType": "BOOK",
+    "categories": [
+     "Book of Mormon"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 28,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.1.6.0.full.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=R24NAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=R24NAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=R24NAAAAYAAJ&printsec=frontcover&dq=%27%27&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=R24NAAAAYAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-R24NAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=R24NAAAAYAAJ&rdid=book-R24NAAAAYAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com/books/download/The_Book_of_Mormon.epub?id=R24NAAAAYAAJ&hl=&output=epub&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com/books/download/The_Book_of_Mormon.pdf?id=R24NAAAAYAAJ&hl=&output=pdf&sig=ACfU3U27VR5AJWN4ZU0y3zIis8EvhODfLA&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=R24NAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jVYnCgAAQBAJ",
+   "etag": "ulepBjQiy00",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jVYnCgAAQBAJ",
+   "volumeInfo": {
+    "title": "Pro Git",
+    "authors": [
+     "Scott Chacon",
+     "Ben Straub"
+    ],
+    "publisher": "Apress",
+    "publishedDate": "2014-11-18",
+    "description": "Pro Git (Second Edition) is your fully-updated guide to Git and its usage in the modern world. Git has come a long way since it was first developed by Linus Torvalds for Linux kernel development. It has taken the open source world by storm since its inception in 2005, and this book teaches you how to use it like a pro. Effective and well-implemented version control is a necessity for successful web projects, whether large or small. With this book you’ll learn how to master the world of distributed version workflow, use the distributed features of Git to the full, and extend Git to meet your every need. Written by Git pros Scott Chacon and Ben Straub, Pro Git (Second Edition) builds on the hugely successful first edition, and is now fully updated for Git version 2.0, as well as including an indispensable chapter on GitHub. It’s the best book for all your Git needs.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781484200766"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1484200764"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 456,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jVYnCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jVYnCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=jVYnCgAAQBAJ&printsec=frontcover&dq=%27%27&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=jVYnCgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-jVYnCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 0.0,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 0.0,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=jVYnCgAAQBAJ&rdid=book-jVYnCgAAQBAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Pro_Git-sample-epub.acsm?id=jVYnCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Pro_Git-sample-pdf.acsm?id=jVYnCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jVYnCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "With this book you’ll learn how to master the world of distributed version workflow, use the distributed features of Git to the full, and extend Git to meet your every need."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oYrodg7UHSsC",
+   "etag": "LEupIOmmeKo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oYrodg7UHSsC",
+   "volumeInfo": {
+    "title": "The Coming Anarchy",
+    "subtitle": "Shattering the Dreams of the Post Cold War",
+    "authors": [
+     "Robert D. Kaplan"
+    ],
+    "publisher": "Vintage",
+    "publishedDate": "2002-08-13",
+    "description": "Robert Kaplan, bestselling author of Balkan Ghosts, offers up scrupulous, far-ranging insights on the world to come in a spirited, rousing, and provocative book that has earned a place at the top of the reading lists of the world's policy makers. The end of the Cold War has not ushered in the global peace and prosperity that many had anticipated. Volatile new democracies in Eastern Europe, fierce tribalism in Africa, civil war and ethnic violence in the Near East, and widespread famine and disease—not to mention the brutal rift developing as wealthy nations reap the benefits of seemingly boundless technology while other parts of the world slide into chaos—are among the issues Kaplan identifies as the most important for charting the future of geopolitics. Historical antecedents in Gibbon's Decline and Fall and in the legacies of statesmen such as Henry Kissinger contribute to this bracingly prophetic framework for addressing the new global reality. Bold, erudite, and profoundly important, The Coming Anarchy is a compelling must-read by one of today's most penetrating writers and provocative minds.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781400033034"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1400033039"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.3.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oYrodg7UHSsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oYrodg7UHSsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=oYrodg7UHSsC&printsec=frontcover&dq=%27%27&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=oYrodg7UHSsC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-oYrodg7UHSsC"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=oYrodg7UHSsC&rdid=book-oYrodg7UHSsC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.399E7,
+       "currencyCode": "USD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.399E7,
+       "currencyCode": "USD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Coming_Anarchy-sample-epub.acsm?id=oYrodg7UHSsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=oYrodg7UHSsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Bold, erudite, and profoundly important, The Coming Anarchy is a compelling must-read by one of today&#39;s most penetrating writers and provocative minds."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ICSpCwAAQBAJ",
+   "etag": "5KSaCGd2nng",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ICSpCwAAQBAJ",
+   "volumeInfo": {
+    "title": "Sprint",
+    "subtitle": "How to Solve Big Problems and Test New Ideas in Just Five Days",
+    "authors": [
+     "Jake Knapp",
+     "John Zeratsky",
+     "Braden Kowitz"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2016-03-08",
+    "description": "From three design partners at Google Ventures, a unique five-day process--called the sprint--for solving tough problems using design, prototyping, and testing ideas with customers.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781501121746"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "150112174X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.4.0.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ICSpCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ICSpCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ICSpCwAAQBAJ&printsec=frontcover&dq=%27%27&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ICSpCwAAQBAJ&dq=%27%27&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Sprint.html?hl=&id=ICSpCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ICSpCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Three Google Ventures design partners outline a five-day process for problem-solving and identifying correct solutions using design, prototyping, and testing ideas with customers."
+   }
+  }
+ ]
+}
+
